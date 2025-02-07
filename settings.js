@@ -4,25 +4,25 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.ytname = 'YouTube: gada' // Nama YouTube Kamu
+global.ytname = 'YouTube: ChuugeSenpai' // Nama YouTube Kamu
 global.socialm = 'GitHub: ???' // Nama GitHub Kamu
 global.location = '11 Naitōmachi, Shinjuku City, Tokyo 160-0014, Jepang' // Lokasi Kamu
 
-global.botName = 'ᴍᴇssᴀɢᴇ ᴀɪ' // Nama Bot Kamu
-global.ownerNumber = '628993937289' // Nomor Kamu
-global.ownerName = 'ᴍᴇssᴀɢᴇ ᴀɪ' // Nama Kamu
+global.botName = 'ChuuzBotz' // Nama Bot Kamu
+global.ownerNumber = '60149881595' // Nomor Kamu
+global.ownerName = 'Chuuge' // Nama Kamu
 global.website = 'https://whatsapp.com/channel/0029VaYrPmgATRSmekpfTD3t' // Web Kamu
 global.wagc = 'https://whatsapp.com/channel/0029VaYrPmgATRSmekpfTD3t' // Web Kamu
-global.packname = 'ᴍᴇssᴀɢᴇ ᴀɪ' // Nama Pack
-global.author = 'ᴍᴇssᴀɢᴇ ᴀɪ' // Nama Author
-global.creator = '628993937289@s.whatsapp.net' // Nomor Creator
+global.packname = 'nigga' // Nama Pack
+global.author = 'hitam' // Nama Author
+global.creator = '60149881595@s.whatsapp.net' // Nomor Creator
 global.premium = ['628993937289'] // User Premium
 global.hituet = 0 // Hit Command
 global.prefa = './*///#/'; // Prefix
 global.tempatDB = 'database.json'; // Tempat Database
 
 global.saluran = '120363279461241063@newsletter' // ID Saluran Kamu
-global.saluranName = 'Rizky Bot ⬤' // Nama Saluran Kamu
+global.saluranName = 'Chuzz Bot ⬤' // Nama Saluran Kamu
 global.sessionName = 'session' // Nama Folder Sesi Bot Kamu
 
 global.panel = 'https://'; // Link Panel Kamu
